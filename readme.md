@@ -34,15 +34,15 @@ Dependencies:
 ## Funktioner
 
 `get_block_image()`  
-`get_block_image_id()` 
-`get_block_image_url()`
+`get_block_image_id()`   
+`get_block_image_url()`  
 
 `get_block_content()`  
 
-`block_has_link()`
-`block_has_external_link()`
-`get_external_block_link()`
-`get_block_link()`
+`block_has_link()`  
+`block_has_external_link()`  
+`get_external_block_link()`  
+`get_block_link()`  
 
-`block_has_button()`
-`get_block_button_label()`
+`block_has_button()`  
+`get_block_button_label()`  
